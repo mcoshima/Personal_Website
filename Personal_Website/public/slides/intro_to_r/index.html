@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/slides/intro_to_r/">
+
+  <title>Intro to R | Meg Oshima</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/black.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous">
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+
+  
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/pdf.css' : 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      <h1 id="what-is-r">What is R?</h1>
+<ul>
+<li>Ross Ihaka and Robert Gentleman</li>
+<li>2000</li>
+<li>Object-oriented</li>
+<li>Statistical analyses</li>
+<li>Data visualization (publication quality figures)</li>
+<li>Free, open source</li>
+<li>Active user community that contributes packages</li>
+<li>Interpreted</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="rstudio">RStudio</h2>
+<ul>
+<li>Base R</li>
+<li>An integrated development environment (IDE)</li>
+<li>Runs R</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="basic-code-syntax">Basic Code Syntax</h2>
+<pre><code class="language-r">x &lt;- 1
+x = 1
+function(arg1, arg2, arg3)
+
+# Comments
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="data-structures">Data Structures</h2>
+<ul>
+<li>Numeric</li>
+<li>Integer</li>
+<li>Character</li>
+<li>Factor</li>
+<li>Vectors</li>
+<li>Matrix</li>
+<li>Array</li>
+<li>Dataframe</li>
+<li>Tibble</li>
+<li>List</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="installing-packages">Installing Packages</h2>
+<pre><code class="language-r">install.packages(&quot;package&quot;)
+
+#Notice the use of &quot; &quot; when installing but not when calling it
+library(package)
+require(package)
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="working-directory">Working directory</h2>
+<pre><code class="language-r">getwd()
+list.files(pattern = &quot;.csv&quot;)
+iris &lt;- read.csv(&quot;iris.csv&quot;)
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="indexing">Indexing</h2>
+<pre><code class="language-r">vector[1]
+dataframe[row, col]
+df[ ,col] #all rows
+df[row, ] #all columns
+list[[]]
+list[[]][row, col] #for dataframes in a list
+which()
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="loops">Loops</h2>
+<ul>
+<li>For loops</li>
+<li>While loops</li>
+</ul>
+<pre><code class="language-r">for(i in 1:10){
+  some function(i)
+}
+
+while(i in x){
+  some function(i)
+}
+</code></pre>
+<h6 id="-i--is-the-iterator-it-has-no-real-significance-and-can-be-named-anything-you-like-it-is-recommended-to-name-it-based-on-what-you-are-using-it-to-loop-through-to-make-your-code-easier-to-follow"><em>i</em> is the iterator, it has no real significance and can be named anything you like. It is recommended to name it based on what you are using it to loop through to make your code easier to follow.</h6>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="logic">Logic</h2>
+<ul>
+<li>if( )</li>
+<li>ifelse( )</li>
+<li>is.___( )</li>
+<li>== or !=</li>
+<li>TRUE (T) or FALSE (F)</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="best-practices-for-coding">Best Practices for Coding</h2>
+<ul>
+<li>use spaces between arguments</li>
+<li>use the &lt;- for assignment instead of  =</li>
+<li>use #comments to annotate your code!</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script>
+
+  <script>
+    window.revealPlugins = { dependencies: [
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/zoom-js/zoom.js', async: true },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/math/math.js', async: true },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/print-pdf/print-pdf.js', async: true },
+      
+      { src: '\/js\/vendor\/reveal.js\/plugin\/notes\/notes.js', async: true }
+    ]};
+
+    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'slide', mouseWheel: true };
+    let revealOptions = Object.assign({}, revealDefaults, revealPlugins);
+    Reveal.initialize(revealOptions);
+  </script>
+
+</body>
+</html>

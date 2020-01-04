@@ -1,0 +1,18 @@
+name = "custom"
+
+light = true
+
+# Primary (links and icons)
+primary = "#4a82ba"
+
+
+# Menu
+menu_primary = "#f7f7f7"
+menu_text = "#76323F"
+menu_text_active = "#565656"
+menu_title = "#76323F"
+
+# Backgrounds
+background = "#D7CEC7"
+home_section_odd = "#D7CEC7"
+home_section_even = "#f7f2ed"

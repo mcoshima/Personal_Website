@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meg Oshima</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meg Oshima</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Meg Oshima</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&#39;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using RStudio</title>
+      <link>/post/using_rstudio/</link>
+      <pubDate>Fri, 03 Jan 2020 21:13:14 -0500</pubDate>
+      <guid>/post/using_rstudio/</guid>
+      <description>
+
+
+&lt;p&gt;The purpose of this tutorial is to share some “hidden” tricks in RStudio that can improve coding efficiency and overall user experience.&lt;/p&gt;
+&lt;div id=&#34;customizing-your-console&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Customizing your Console&lt;/h3&gt;
+&lt;p&gt;You can customize your RStudio setup and layout in the Global Options. You can control everything from the arrangement of your windows, to the font color, to the default working directory and more. Here are just a few examples of settings you can change that may improve the look of your RStudio sessions. Go into Tools -&amp;gt; Global Options and start on the General tab. This is where you can change the default working directory, and control what shows up when you start a new session or saves at the end of a session.&lt;br /&gt;
+&lt;img src=&#34;/post/Using_RStudio_files/General%20Preferences.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Under the next tab, Code, we can specify formatting styles we want to use. For example, wrap text helps make code more readable by automatically moving text to the next line when it reaches the edge of the window. This also where you can specify autocompletion functions that make coding faster.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Using_RStudio_files/Code%20Preferences.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+The next tab, Appearance, is where you can change the color scheme of your script.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Using_RStudio_files/Format%20Preferences.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Click through some of the other tabs and familiarize yourself with some of the other things you can customize.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tools-in-rstudio&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tools in RStudio&lt;/h3&gt;
+&lt;p&gt;The history pane shows a searchable list of previously run commands. You can also access them in the console by hitting the &lt;code&gt;Up&lt;/code&gt; arrow until you find it. The arrow key is good for code that was recently run, while the history pane is better for code that was run earlier in the session.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Using_RStudio_files/History%20tab.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Names of functions, arguments, objects, and files can be autofilled using tab. To autofill a function, begin typing the name (ie fun) and when you see a drop down box of functions hit tab. This is a snippet and it provides the skeleton for commonly used functions. To import a file, the tab button can help find the file. Begin typing the filepath and hit &lt;code&gt;Tab&lt;/code&gt; to see a drop down list of files. Scroll through the options using the &lt;code&gt;Up&lt;/code&gt; and &lt;code&gt;Down&lt;/code&gt; arrows and hit &lt;code&gt;Enter&lt;/code&gt; to select the file or folder you want.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Using_RStudio_files/tab-autofill-file-search.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br /&gt;
+If you want to rename a variable, you can use Rename in Scope. Just highlight the name you want to change, go to Code -&amp;gt; Rename in Scope and it will highlight all occurrences of that exact name so you can edit them all at once.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Using_RStudio_files/Rename%20in%20Scope.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Sections of code can be folded, or hid, to make it easier to navigate through the script and focus on one section at a time. Braced code (ie functions or loops), code chunks (RMarkdown style), text sections between headers within RMarkdown documents, and code sections are foldable. Sections can be defined in three ways:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Style one ---------------------------
+
+# Style two ===========================
+
+### Style three #######################&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can use the Jump To menu at the bottom of the editor window or the outline view at top of the editor window. This shows the section names and you can quickly go to any one you choose.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Using_RStudio_files/Jump%20to%20box.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;keyboard-shortcuts&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Keyboard Shortcuts&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Alt&lt;/code&gt; + &lt;code&gt;-&lt;/code&gt; Assignment arrow&lt;br /&gt;
+&lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;Alt&lt;/code&gt; + &lt;code&gt;Shift&lt;/code&gt; + &lt;code&gt;M&lt;/code&gt; Highlights all occurrences of a word&lt;br /&gt;
+&lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;Alt&lt;/code&gt; + &lt;code&gt;Shift&lt;/code&gt; + &lt;code&gt;Arrow&lt;/code&gt; Creates a second cursor that you can move to lines above or below original
+&lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;Shift&lt;/code&gt; + &lt;code&gt;R&lt;/code&gt; Inserts new section&lt;br /&gt;
+&lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;Shift&lt;/code&gt; + &lt;code&gt;m&lt;/code&gt; Pipping symbol&lt;br /&gt;
+&lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;Shift&lt;/code&gt; + &lt;code&gt;F&lt;/code&gt; search for text in all files in a specified folder&lt;br /&gt;
+&lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;Shift&lt;/code&gt; + &lt;code&gt;A&lt;/code&gt; Reformats highlighted section to improve readability&lt;br /&gt;
+&lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;.&lt;/code&gt; Go to file&lt;br /&gt;
+&lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;Shift&lt;/code&gt; + &lt;code&gt;C&lt;/code&gt; Comments or uncomments a line
+&lt;code&gt;Alt&lt;/code&gt; + &lt;code&gt;Shift&lt;/code&gt; + &lt;code&gt;Down Arrow&lt;/code&gt; Copies entire line or mulitple lines (highlighted) below&lt;/p&gt;
+&lt;p&gt;For Macs, replace &lt;code&gt;Ctrl&lt;/code&gt; with &lt;code&gt;Cmd&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;We can practice the keyboard shortcuts we’ve learned with this code.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Quick history
+#Run this line then use the up arrow to change the code and rerun.
+x &amp;lt;- seq(1,20,1)
+
+
+#Try using tab autofill
+#fun, tab:
+
+#if tab:
+
+#for tab:
+
+#use tab to find a file to read in
+x.df &amp;lt;- read.csv(&amp;quot;&amp;quot;)
+
+#Rename in scope
+x.df_1 &amp;lt;- x.df[,1]
+x.df_2 &amp;lt;- x.df[,2]
+x.df_3 &amp;lt;- x.df[,3]
+
+#Reformat these lines to make them easier to read
+dat &amp;lt;- list(A = x.df, B = x.df_1, C = x.df_2, D = x.df_3)
+plot(x = dat$A[,2], y = dat$A[,3], xlim = c(30,75), xlab = &amp;quot;Husband&amp;#39;s Age&amp;quot;, ylab = &amp;quot;Wife&amp;#39;s Age&amp;quot;, pch = 16, col = &amp;quot;purple&amp;quot;)
+
+#Try using the piping function
+library(dplyr)
+data(&amp;quot;iris&amp;quot;)
+head(iris)
+iris ___ select(Species, Sepal.Length, Sepal.Width) ____ subset(Sepal.Length &amp;gt; 5)
+
+#Use multiple cursors to change the ylims to be the same
+X &amp;lt;- seq(1,10,1)
+Y &amp;lt;- rnorm(10, 4, 4)
+plot(x = X, y = Y, ylim = c(-1,15), pch = 16)
+plot(x = X, y = Y, ylim = c(-1,7), pch = 16)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;organizing-your-script&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Organizing Your Script&lt;/h3&gt;
+&lt;p&gt;It is important to keep your scripts organized and annotated to help you and others remember and understand what lines of code are doing. Well organized scripts save time by making it easy to find what you need and prevent you from having to things repeatedly. Here are a few guidelines for writing nice script.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Use comments to explain what you are doing in a line or section.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use sections for chunks of code. They can be run as a group, are searchable in the outline view, and can be hidden when not needed to make scrolling through the script eaiser.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use descriptive names when naming scripts, nothing generic or vague like code_01.R. This makes it much easier to go back and find later.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Put functions into individual scripts so you can easily source them later.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Keep everything organized and together by projects.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;how-to-use-.rprojects&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;How to Use .RProjects&lt;/h3&gt;
+&lt;p&gt;RProjects are a tool to organize your work and make it completely self-contained and transportable. This is ideal for when you are collaborating with others and working on code together. When a project is created, a file is created that holds the files associated with that project, including temporary files and the environment. When you open a project, the working directory is set to the project directory, the .RHistory file is loaded, previously loaded scripts are in the editor window, and the global environment is loaded. One way to open a new project is to open RStudio and click the create new project button.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Using_RStudio_files/New%20Project.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;You can work with multiple projects at a time in different windows. Another way to create a project is with the package ProjectTemplate. It creates a project directory with pre-defined subfolders to help organize your materials.&lt;/p&gt;
+&lt;div id=&#34;advantages-of-using-projecttemplate-package&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Advantages of using ProjectTemplate package&lt;/h4&gt;
+&lt;p&gt;When you load a project, it searches through the data directory for files and automatically loads any .csv or .sql files it finds.
+There is a libraries function that will automatically load the necessary libraries when you load the project. First you need to make sure in the &lt;code&gt;config/global.dcf&lt;/code&gt; file the &lt;code&gt;load_libraries: TRUE&lt;/code&gt;. Then check the &lt;code&gt;libraries&lt;/code&gt; it will print out a list of the ones that will be loaded.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;install.packages(&amp;quot;ProjectTemplate&amp;quot;)
+library(ProjectTemplate)
+create.project(&amp;quot;SWT_RStudio&amp;quot;)
+setwd(&amp;quot;./SWT_RStudio&amp;quot;) #current working directory /SWT_RStudio
+load.project()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For this example we will be using the mtcars dataset.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;data(&amp;quot;mtcars&amp;quot;)
+head(mtcars)
+save(mtcars, file = &amp;quot;./data/mtcars.csv&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We saved the dataframe in the data folder. Now when we load the project, it will automatically be read into our environment. Now any scripts that we write with code associated with this project can be saved in the src folder. You can also load libraries automatically when the project opens. First, open the &lt;code&gt;config/global.dcf&lt;/code&gt; document in a texteditor and set &lt;code&gt;load_libraries&lt;/code&gt; to &lt;code&gt;TRUE&lt;/code&gt;. If there are specific libraries you need for your analysis, you can add them to the next section, libraries.&lt;br /&gt;
+Let’s try creating a new dataframe of any three variables you want.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;mtcars_sub &amp;lt;- mtcars[,c(1,2,4)]
+head(mtcars_sub)
+save(mtcars_sub, file = &amp;quot;./data/mtcars_sub.csv&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;These tricks are small things that can make your coding life easier and more efficient. Projects are really great for work that you are sharing or collaborating on, big projects that involve multiple scripts and files, and a good way to practice organization.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This workshop was taught as part of the 2018 Student Workshop Training Series at USM GCRL.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trophic Network Shiny App</title>
+      <link>/post/trophic-network-shiny-app/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/trophic-network-shiny-app/</guid>
+      <description>&lt;h2 id=&#34;network-analysis&#34;&gt;Network Analysis&lt;/h2&gt;
+&lt;p&gt;Network anaylsis (NA) is a useful tool for analyzing social, process, or ecological relationships between components of a community. It is a highly flexible tool that is used in many diverse disciplines. We used NA to investigate trophic interactions between marine species in the Gulf of Mexico (GOM). From our investigation, we developed a large database of diet data collected over decades across the GOM and developed a Shiny app to enable anyone to quickly sort through the data and visualize it in a dynamic network style.&lt;/p&gt;
+&lt;h4 id=&#34;about-the-app&#34;&gt;About the App&lt;/h4&gt;
+&lt;p&gt;The app allows users to select the predator or prey they want to investigate. Once they have selected the species, they can choose the stomach content metric (of those avaialble for that species) they want to use and then an interactive network is generated. In addition to the network visual, a data table is generated that can be downloaded as a .csv file. This Shiny app was developed with the intention of making the collected diet information easily avaiable for other scientist and the public, allow anyone who is interested to quickly visualize the known trophic interactions between GOM species, and then use that data for their own analysis. This promotes transparent and open science. The code for the app can be found &lt;a href=&#34;https://github.com/mcoshima/Shiny/tree/master/Trophic%20Network&#34;&gt;here&lt;/a&gt; and the app can be accessed &lt;a href=&#34;https://megumi-oshima.shinyapps.io/Diet/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>For Loops</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 02 Jan 2020 21:13:14 -0500</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;what-is-a-for-loop&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What is a for loop?&lt;/h2&gt;
+&lt;p&gt;A for loop is a process that lets you automate a portion of your code by repeating a sequence of instructions a specified number of times. There are a couple of different types of loops (while, for, repeat) and they all have the same structure and purpose. For loops are executed a specified number of times by a vector.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;when-and-how-do-you-use-it&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;When and how do you use it?&lt;/h2&gt;
+&lt;p&gt;For loops are used when you find yourself repeating the same lines of code. If you want to do the same thing to an entire vector, matrix, or even list. The structure of a for loop is fairly simple, it contains a looping index, an object to loop through, and the actions you want to perform.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;for (variable in vector) {
+  expression
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;There are 2 ways to write the looping variable, they each have advantages. The first way is to say &lt;code&gt;for (name in vector)&lt;/code&gt;. The second way is to use a number index such as &lt;code&gt;for (i in 1:length(vector))&lt;/code&gt;. The first way is easy to read and simple but it doesn’t give you an index value. The second one is more writing and not as easy to read sometimes but it gives us more control and options in the expression portion. The second way is more commonly used, especially when you need to subset or index from another vector.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;set.seed(10)
+df &amp;lt;- data.frame(Name = c(&amp;quot;A&amp;quot;, &amp;quot;B&amp;quot;, &amp;quot;C&amp;quot;, &amp;quot;D&amp;quot;, &amp;quot;E&amp;quot;, &amp;quot;F&amp;quot;, &amp;quot;G&amp;quot;), 
+                 Age = seq(0,6,1),
+                 Month = sample(seq(1,12), 7, replace = T),
+                 Length.in = round(seq(3,20,length.out = 7),2))
+df&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   Name Age Month Length.in
+## 1    A   0     7      3.00
+## 2    B   1     4      5.83
+## 3    C   2     6      8.67
+## 4    D   3     9     11.50
+## 5    E   4     2     14.33
+## 6    F   5     3     17.17
+## 7    G   6     4     20.00&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;for(a in df$Length.in){
+    print(a)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 3
+## [1] 5.83
+## [1] 8.67
+## [1] 11.5
+## [1] 14.33
+## [1] 17.17
+## [1] 20&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;for(a in df){
+  print(a)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] A B C D E F G
+## Levels: A B C D E F G
+## [1] 0 1 2 3 4 5 6
+## [1] 7 4 6 9 2 3 4
+## [1]  3.00  5.83  8.67 11.50 14.33 17.17 20.00&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Calculating length in inches using name method of writing loop
+lengths.cm &amp;lt;- c()
+for(i in df$Length.in){
+  lengths.cm[i] &amp;lt;- i*2.54
+  print(lengths.cm)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1]   NA   NA 7.62
+## [1]      NA      NA  7.6200      NA 14.8082
+## [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218
+##  [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218      NA
+## [10]      NA 29.2100
+##  [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218      NA
+## [10]      NA 29.2100      NA      NA 36.3982
+##  [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218      NA
+## [10]      NA 29.2100      NA      NA 36.3982      NA      NA 43.6118
+##  [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218      NA
+## [10]      NA 29.2100      NA      NA 36.3982      NA      NA 43.6118      NA
+## [19]      NA 50.8000&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Calculating length in inches using indexing method of writing loop
+lengths.cm &amp;lt;- c()
+for(i in 1:nrow(df)){
+  lengths.cm[i] &amp;lt;- df$Length.in[i]*2.54
+  df$Length.cm[i] &amp;lt;- lengths.cm[i]
+  print(lengths.cm)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 7.62
+## [1]  7.6200 14.8082
+## [1]  7.6200 14.8082 22.0218
+## [1]  7.6200 14.8082 22.0218 29.2100
+## [1]  7.6200 14.8082 22.0218 29.2100 36.3982
+## [1]  7.6200 14.8082 22.0218 29.2100 36.3982 43.6118
+## [1]  7.6200 14.8082 22.0218 29.2100 36.3982 43.6118 50.8000&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;df&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   Name Age Month Length.in Length.cm
+## 1    A   0     7      3.00    7.6200
+## 2    B   1     4      5.83   14.8082
+## 3    C   2     6      8.67   22.0218
+## 4    D   3     9     11.50   29.2100
+## 5    E   4     2     14.33   36.3982
+## 6    F   5     3     17.17   43.6118
+## 7    G   6     4     20.00   50.8000&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#To find the difference in lengths between each fish
+for(i in 1:nrow(df)-1){
+  print(df$Length.in[i+1] - df$Length.in[i])
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## numeric(0)
+## [1] 2.83
+## [1] 2.84
+## [1] 2.83
+## [1] 2.83
+## [1] 2.84
+## [1] 2.83&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;practice-writing-your-own-loops&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Practice writing your own loops&lt;/h2&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Write a loop to calculate 1/2, 2/3, 3/4, and 5/6.
+
+for(i in 1: ){
+  
+  
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;control-statements&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Control Statements&lt;/h2&gt;
+&lt;p&gt;There are two control statements you can use in loops, break and next. These are conditional and tell the loop to either stop or skip over an element and continue onto the next one if a certain condition is met.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Use the next control statement to write a loop that adds another year to the age if the fish was caught after June (Month &amp;gt; 6).
+for (i in 1:nrow(df)) {
+  if(){
+    next
+  }else 
+}
+df
+
+#Use the break control statement to subset the fish younger than 4.
+fish.sub &amp;lt;- df[FALSE,]
+for (i in 1:nrow(df)) {
+  if(){
+    break
+  }else 
+}
+fish.sub&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;possible-solutions&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Possible solutions&lt;/h3&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;for (i in 1:nrow(df)) {
+  if(df[i,3] &amp;lt; 6){
+    next
+  }else df$Age[i] &amp;lt;- df$Age[i] + 1
+}
+
+
+fish.sub &amp;lt;- df[FALSE,]
+for (i in 1:nrow(df)) {
+  if(df[i,2] &amp;gt; 3){
+    break
+  }else fish.sub[i,] &amp;lt;- df[i,]
+}
+fish.sub&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   Name Age Month Length.in Length.cm
+## 1    A   1     7      3.00    7.6200
+## 2    B   1     4      5.83   14.8082
+## 3    C   3     6      8.67   22.0218&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;using-for-loops-to-plot&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Using for loops to plot&lt;/h2&gt;
+&lt;p&gt;If you need to create several plots of the same thing or one plot with many lines of different values it can be useful to use a for loop. The strucutre is pretty much the same as normal loop but you make a blank plot first.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(RColorBrewer)
+col. = brewer.pal(5, &amp;quot;Set2&amp;quot;)
+plot(0, 0, type = &amp;quot;n&amp;quot;, xlab = &amp;quot;Age&amp;quot;, ylab = &amp;quot;Length&amp;quot;, xlim = c(0,max(df$Age)), ylim = c(0,max(df$Length.cm)))
+for(i in 4:5){
+   points(x = df$Age, y = df[,i], pch = 16, col = col.[i])
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/unnamed-chunk-6-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mfrow = c(1,2))
+for (i in 4:5){
+  plot(x = df$Age, y = df[,i], pch = 16, col = col.[i], xlab = &amp;quot;Age&amp;quot;, ylab = &amp;quot;Length&amp;quot;)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/unnamed-chunk-6-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;nested-loops&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Nested loops&lt;/h2&gt;
+&lt;p&gt;Loops can be nested, with two or more for loops within each other. This is useful when dealing with matrices. Here’s an example of a nested loop. This loop is setting each element in the matrix based on its position in the matrix.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;mymat = matrix(nrow=10, ncol=10) # create a 10 x 10 matrix (of 10 rows and 10 columns)
+
+for(i in 1:dim(mymat)[1])  # for each row
+{
+  for(j in 1:dim(mymat)[2]) # for each column
+  {
+    mymat[i,j] = i*j     # assign values based on position: product of two indexes
+  }
+}
+mymat&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##       [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [,9] [,10]
+##  [1,]    1    2    3    4    5    6    7    8    9    10
+##  [2,]    2    4    6    8   10   12   14   16   18    20
+##  [3,]    3    6    9   12   15   18   21   24   27    30
+##  [4,]    4    8   12   16   20   24   28   32   36    40
+##  [5,]    5   10   15   20   25   30   35   40   45    50
+##  [6,]    6   12   18   24   30   36   42   48   54    60
+##  [7,]    7   14   21   28   35   42   49   56   63    70
+##  [8,]    8   16   24   32   40   48   56   64   72    80
+##  [9,]    9   18   27   36   45   54   63   72   81    90
+## [10,]   10   20   30   40   50   60   70   80   90   100&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;alternatives-to-for-loops&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Alternatives to for loops&lt;/h2&gt;
+&lt;p&gt;An alternative to for loops is the apply family. It works with vector form and can be faster and easier to write than for loops. There are four main functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;apply(): works on matrices&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;lapply(): works across lists and vectors&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;sapply(): simplifies output into a vector&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;mapply(): pass multiple variables or function arguments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The apply function takes 3 arguments, the object to be manipulated, the margin over which to apply the function (do you want to do it by rows(1) or by columns (2)), and the function you want to do. The function can be a built in one or one that you write. If the function you are using has additional arguments, you put that after the function. The structure looks like this:
+&lt;code&gt;apply(mymat, 2, sum, na.rm = TRUE)&lt;/code&gt;. This would calculate the sum of each column in the matrix and remove NA’s.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Construction and evaluation of a robust trophic network model for the northern Gulf of Mexico ecosystem</title>
+      <link>/publication/journal-article/leaf2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/leaf2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to R</title>
+      <link>/talk/example/</link>
+      <pubDate>Wed, 05 Jun 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to R</title>
+      <link>/slides/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/</guid>
+      <description>&lt;h1 id=&#34;what-is-r&#34;&gt;What is R?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ross Ihaka and Robert Gentleman&lt;/li&gt;
+&lt;li&gt;2000&lt;/li&gt;
+&lt;li&gt;Object-oriented&lt;/li&gt;
+&lt;li&gt;Statistical analyses&lt;/li&gt;
+&lt;li&gt;Data visualization (publication quality figures)&lt;/li&gt;
+&lt;li&gt;Free, open source&lt;/li&gt;
+&lt;li&gt;Active user community that contributes packages&lt;/li&gt;
+&lt;li&gt;Interpreted&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;rstudio&#34;&gt;RStudio&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Base R&lt;/li&gt;
+&lt;li&gt;An integrated development environment (IDE)&lt;/li&gt;
+&lt;li&gt;Runs R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;basic-code-syntax&#34;&gt;Basic Code Syntax&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;x &amp;lt;- 1
+x = 1
+function(arg1, arg2, arg3)
+
+# Comments
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-structures&#34;&gt;Data Structures&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Numeric&lt;/li&gt;
+&lt;li&gt;Integer&lt;/li&gt;
+&lt;li&gt;Character&lt;/li&gt;
+&lt;li&gt;Factor&lt;/li&gt;
+&lt;li&gt;Vectors&lt;/li&gt;
+&lt;li&gt;Matrix&lt;/li&gt;
+&lt;li&gt;Array&lt;/li&gt;
+&lt;li&gt;Dataframe&lt;/li&gt;
+&lt;li&gt;Tibble&lt;/li&gt;
+&lt;li&gt;List&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;installing-packages&#34;&gt;Installing Packages&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&amp;quot;package&amp;quot;)
+
+#Notice the use of &amp;quot; &amp;quot; when installing but not when calling it
+library(package)
+require(package)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;working-directory&#34;&gt;Working directory&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;getwd()
+list.files(pattern = &amp;quot;.csv&amp;quot;)
+iris &amp;lt;- read.csv(&amp;quot;iris.csv&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;indexing&#34;&gt;Indexing&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;vector[1]
+dataframe[row, col]
+df[ ,col] #all rows
+df[row, ] #all columns
+list[[]]
+list[[]][row, col] #for dataframes in a list
+which()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;loops&#34;&gt;Loops&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;For loops&lt;/li&gt;
+&lt;li&gt;While loops&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;for(i in 1:10){
+  some function(i)
+}
+
+while(i in x){
+  some function(i)
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h6 id=&#34;-i--is-the-iterator-it-has-no-real-significance-and-can-be-named-anything-you-like-it-is-recommended-to-name-it-based-on-what-you-are-using-it-to-loop-through-to-make-your-code-easier-to-follow&#34;&gt;&lt;em&gt;i&lt;/em&gt; is the iterator, it has no real significance and can be named anything you like. It is recommended to name it based on what you are using it to loop through to make your code easier to follow.&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;logic&#34;&gt;Logic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;if( )&lt;/li&gt;
+&lt;li&gt;ifelse( )&lt;/li&gt;
+&lt;li&gt;is.___( )&lt;/li&gt;
+&lt;li&gt;== or !=&lt;/li&gt;
+&lt;li&gt;TRUE (T) or FALSE (F)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;best-practices-for-coding&#34;&gt;Best Practices for Coding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;use spaces between arguments&lt;/li&gt;
+&lt;li&gt;use the &amp;lt;- for assignment instead of  =&lt;/li&gt;
+&lt;li&gt;use #comments to annotate your code!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding the structure and resilience of trophic dynamics in the northern Gulf of Mexico using network analysis</title>
+      <link>/publication/journal-article/oshima2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/oshima2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/usingrstudio/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/usingrstudio/readme/</guid>
+      <description>&lt;p&gt;Here you can store any documentation that you&#39;ve written about your analysis.
+When pushing the project to GitHub you can use this directory as the root for a
+GitHub Pages website for the project. For more information see
+&lt;a href=&#34;https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3&#34;&gt;https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

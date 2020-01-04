@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny | Meg Oshima</title>
+    <link>/categories/shiny/</link>
+      <atom:link href="/categories/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shiny</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shiny</title>
+      <link>/categories/shiny/</link>
+    </image>
+    
+    <item>
+      <title>Trophic Network Shiny App</title>
+      <link>/post/trophic-network-shiny-app/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/trophic-network-shiny-app/</guid>
+      <description>&lt;h2 id=&#34;network-analysis&#34;&gt;Network Analysis&lt;/h2&gt;
+&lt;p&gt;Network anaylsis (NA) is a useful tool for analyzing social, process, or ecological relationships between components of a community. It is a highly flexible tool that is used in many diverse disciplines. We used NA to investigate trophic interactions between marine species in the Gulf of Mexico (GOM). From our investigation, we developed a large database of diet data collected over decades across the GOM and developed a Shiny app to enable anyone to quickly sort through the data and visualize it in a dynamic network style.&lt;/p&gt;
+&lt;h4 id=&#34;about-the-app&#34;&gt;About the App&lt;/h4&gt;
+&lt;p&gt;The app allows users to select the predator or prey they want to investigate. Once they have selected the species, they can choose the stomach content metric (of those avaialble for that species) they want to use and then an interactive network is generated. In addition to the network visual, a data table is generated that can be downloaded as a .csv file. This Shiny app was developed with the intention of making the collected diet information easily avaiable for other scientist and the public, allow anyone who is interested to quickly visualize the known trophic interactions between GOM species, and then use that data for their own analysis. This promotes transparent and open science. The code for the app can be found &lt;a href=&#34;https://github.com/mcoshima/Shiny/tree/master/Trophic%20Network&#34;&gt;here&lt;/a&gt; and the app can be accessed &lt;a href=&#34;https://megumi-oshima.shinyapps.io/Diet/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Meg Oshima</title>
+    <link>/tags/r/</link>
+      <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2020 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>R</title>
+      <link>/tags/r/</link>
+    </image>
+    
+    <item>
+      <title>For Loops</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 02 Jan 2020 21:13:14 -0500</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;what-is-a-for-loop&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What is a for loop?&lt;/h2&gt;
+&lt;p&gt;A for loop is a process that lets you automate a portion of your code by repeating a sequence of instructions a specified number of times. There are a couple of different types of loops (while, for, repeat) and they all have the same structure and purpose. For loops are executed a specified number of times by a vector.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;when-and-how-do-you-use-it&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;When and how do you use it?&lt;/h2&gt;
+&lt;p&gt;For loops are used when you find yourself repeating the same lines of code. If you want to do the same thing to an entire vector, matrix, or even list. The structure of a for loop is fairly simple, it contains a looping index, an object to loop through, and the actions you want to perform.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;for (variable in vector) {
+  expression
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;There are 2 ways to write the looping variable, they each have advantages. The first way is to say &lt;code&gt;for (name in vector)&lt;/code&gt;. The second way is to use a number index such as &lt;code&gt;for (i in 1:length(vector))&lt;/code&gt;. The first way is easy to read and simple but it doesn’t give you an index value. The second one is more writing and not as easy to read sometimes but it gives us more control and options in the expression portion. The second way is more commonly used, especially when you need to subset or index from another vector.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;set.seed(10)
+df &amp;lt;- data.frame(Name = c(&amp;quot;A&amp;quot;, &amp;quot;B&amp;quot;, &amp;quot;C&amp;quot;, &amp;quot;D&amp;quot;, &amp;quot;E&amp;quot;, &amp;quot;F&amp;quot;, &amp;quot;G&amp;quot;), 
+                 Age = seq(0,6,1),
+                 Month = sample(seq(1,12), 7, replace = T),
+                 Length.in = round(seq(3,20,length.out = 7),2))
+df&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   Name Age Month Length.in
+## 1    A   0     7      3.00
+## 2    B   1     4      5.83
+## 3    C   2     6      8.67
+## 4    D   3     9     11.50
+## 5    E   4     2     14.33
+## 6    F   5     3     17.17
+## 7    G   6     4     20.00&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;for(a in df$Length.in){
+    print(a)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 3
+## [1] 5.83
+## [1] 8.67
+## [1] 11.5
+## [1] 14.33
+## [1] 17.17
+## [1] 20&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;for(a in df){
+  print(a)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] A B C D E F G
+## Levels: A B C D E F G
+## [1] 0 1 2 3 4 5 6
+## [1] 7 4 6 9 2 3 4
+## [1]  3.00  5.83  8.67 11.50 14.33 17.17 20.00&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Calculating length in inches using name method of writing loop
+lengths.cm &amp;lt;- c()
+for(i in df$Length.in){
+  lengths.cm[i] &amp;lt;- i*2.54
+  print(lengths.cm)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1]   NA   NA 7.62
+## [1]      NA      NA  7.6200      NA 14.8082
+## [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218
+##  [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218      NA
+## [10]      NA 29.2100
+##  [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218      NA
+## [10]      NA 29.2100      NA      NA 36.3982
+##  [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218      NA
+## [10]      NA 29.2100      NA      NA 36.3982      NA      NA 43.6118
+##  [1]      NA      NA  7.6200      NA 14.8082      NA      NA 22.0218      NA
+## [10]      NA 29.2100      NA      NA 36.3982      NA      NA 43.6118      NA
+## [19]      NA 50.8000&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Calculating length in inches using indexing method of writing loop
+lengths.cm &amp;lt;- c()
+for(i in 1:nrow(df)){
+  lengths.cm[i] &amp;lt;- df$Length.in[i]*2.54
+  df$Length.cm[i] &amp;lt;- lengths.cm[i]
+  print(lengths.cm)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 7.62
+## [1]  7.6200 14.8082
+## [1]  7.6200 14.8082 22.0218
+## [1]  7.6200 14.8082 22.0218 29.2100
+## [1]  7.6200 14.8082 22.0218 29.2100 36.3982
+## [1]  7.6200 14.8082 22.0218 29.2100 36.3982 43.6118
+## [1]  7.6200 14.8082 22.0218 29.2100 36.3982 43.6118 50.8000&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;df&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   Name Age Month Length.in Length.cm
+## 1    A   0     7      3.00    7.6200
+## 2    B   1     4      5.83   14.8082
+## 3    C   2     6      8.67   22.0218
+## 4    D   3     9     11.50   29.2100
+## 5    E   4     2     14.33   36.3982
+## 6    F   5     3     17.17   43.6118
+## 7    G   6     4     20.00   50.8000&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#To find the difference in lengths between each fish
+for(i in 1:nrow(df)-1){
+  print(df$Length.in[i+1] - df$Length.in[i])
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## numeric(0)
+## [1] 2.83
+## [1] 2.84
+## [1] 2.83
+## [1] 2.83
+## [1] 2.84
+## [1] 2.83&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;practice-writing-your-own-loops&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Practice writing your own loops&lt;/h2&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Write a loop to calculate 1/2, 2/3, 3/4, and 5/6.
+
+for(i in 1: ){
+  
+  
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;control-statements&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Control Statements&lt;/h2&gt;
+&lt;p&gt;There are two control statements you can use in loops, break and next. These are conditional and tell the loop to either stop or skip over an element and continue onto the next one if a certain condition is met.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#Use the next control statement to write a loop that adds another year to the age if the fish was caught after June (Month &amp;gt; 6).
+for (i in 1:nrow(df)) {
+  if(){
+    next
+  }else 
+}
+df
+
+#Use the break control statement to subset the fish younger than 4.
+fish.sub &amp;lt;- df[FALSE,]
+for (i in 1:nrow(df)) {
+  if(){
+    break
+  }else 
+}
+fish.sub&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;possible-solutions&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Possible solutions&lt;/h3&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;for (i in 1:nrow(df)) {
+  if(df[i,3] &amp;lt; 6){
+    next
+  }else df$Age[i] &amp;lt;- df$Age[i] + 1
+}
+
+
+fish.sub &amp;lt;- df[FALSE,]
+for (i in 1:nrow(df)) {
+  if(df[i,2] &amp;gt; 3){
+    break
+  }else fish.sub[i,] &amp;lt;- df[i,]
+}
+fish.sub&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   Name Age Month Length.in Length.cm
+## 1    A   1     7      3.00    7.6200
+## 2    B   1     4      5.83   14.8082
+## 3    C   3     6      8.67   22.0218&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;using-for-loops-to-plot&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Using for loops to plot&lt;/h2&gt;
+&lt;p&gt;If you need to create several plots of the same thing or one plot with many lines of different values it can be useful to use a for loop. The strucutre is pretty much the same as normal loop but you make a blank plot first.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(RColorBrewer)
+col. = brewer.pal(5, &amp;quot;Set2&amp;quot;)
+plot(0, 0, type = &amp;quot;n&amp;quot;, xlab = &amp;quot;Age&amp;quot;, ylab = &amp;quot;Length&amp;quot;, xlim = c(0,max(df$Age)), ylim = c(0,max(df$Length.cm)))
+for(i in 4:5){
+   points(x = df$Age, y = df[,i], pch = 16, col = col.[i])
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/unnamed-chunk-6-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mfrow = c(1,2))
+for (i in 4:5){
+  plot(x = df$Age, y = df[,i], pch = 16, col = col.[i], xlab = &amp;quot;Age&amp;quot;, ylab = &amp;quot;Length&amp;quot;)
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/unnamed-chunk-6-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;nested-loops&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Nested loops&lt;/h2&gt;
+&lt;p&gt;Loops can be nested, with two or more for loops within each other. This is useful when dealing with matrices. Here’s an example of a nested loop. This loop is setting each element in the matrix based on its position in the matrix.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;mymat = matrix(nrow=10, ncol=10) # create a 10 x 10 matrix (of 10 rows and 10 columns)
+
+for(i in 1:dim(mymat)[1])  # for each row
+{
+  for(j in 1:dim(mymat)[2]) # for each column
+  {
+    mymat[i,j] = i*j     # assign values based on position: product of two indexes
+  }
+}
+mymat&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##       [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [,9] [,10]
+##  [1,]    1    2    3    4    5    6    7    8    9    10
+##  [2,]    2    4    6    8   10   12   14   16   18    20
+##  [3,]    3    6    9   12   15   18   21   24   27    30
+##  [4,]    4    8   12   16   20   24   28   32   36    40
+##  [5,]    5   10   15   20   25   30   35   40   45    50
+##  [6,]    6   12   18   24   30   36   42   48   54    60
+##  [7,]    7   14   21   28   35   42   49   56   63    70
+##  [8,]    8   16   24   32   40   48   56   64   72    80
+##  [9,]    9   18   27   36   45   54   63   72   81    90
+## [10,]   10   20   30   40   50   60   70   80   90   100&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;alternatives-to-for-loops&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Alternatives to for loops&lt;/h2&gt;
+&lt;p&gt;An alternative to for loops is the apply family. It works with vector form and can be faster and easier to write than for loops. There are four main functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;apply(): works on matrices&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;lapply(): works across lists and vectors&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;sapply(): simplifies output into a vector&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;mapply(): pass multiple variables or function arguments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The apply function takes 3 arguments, the object to be manipulated, the margin over which to apply the function (do you want to do it by rows(1) or by columns (2)), and the function you want to do. The function can be a built in one or one that you write. If the function you are using has additional arguments, you put that after the function. The structure looks like this:
+&lt;code&gt;apply(mymat, 2, sum, na.rm = TRUE)&lt;/code&gt;. This would calculate the sum of each column in the matrix and remove NA’s.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
