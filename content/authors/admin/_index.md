@@ -19,6 +19,8 @@ interests:
 - Population Dynamics
 - Quantitative Fisheries
 - Bayesian Statistics
+- R Shiny Apps
+- Data Visualizations
 name: Megumi Oshima
 organizations:
 - name: University of Southern Mississippi
@@ -37,6 +39,13 @@ user_groups:
 - Visitors
 ---
 
-My research interests include statistical modeling of fisheries population dynamics, effective data visualization, and developing Shiny applications for communicating research with non-scientist.
-
-
+I am currently a PhD student in the Leaf Lab at the University of Southern Mississippi's 
+Gulf Coast Research Laboratory. My work focuses on using and developing statistical models 
+to simulate and evaluate the dynamics of fish populations in the Gulf of Mexico. I have worked on 
+several species, including blue crab, Vermilion Snapper, and Red Snapper. I am interested in using 
+management strategy evaluation techniques to investigate the combined effects of ecological and anthropogenic pressures on commercially 
+important species. Specifically, my dissertation research uses MSE to investigate how Vermilion Snapper populations respond to different 
+harvest strategies while accounting for interspecific competition with Red Snapper. 
+In addition to my academic research, I am interested in creating tools for communicating data and results with stakeholders and the general public. 
+I have used tools and applications such as dashboards, RMarkdown files, and Shiny apps and am interested in helping others with this. I 
+believe that these tools (and others) are the next step in making science more transparent, available, and approachable. 
