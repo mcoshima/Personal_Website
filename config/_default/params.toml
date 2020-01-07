@@ -90,7 +90,7 @@ address = {street = "703 East Beach Dr.", city = "Ocean Springs", region = "MS",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.4113", longitude = "-88.8278"}
+coordinates = {latitude = "30.393912", longitude = "-88.797393"}
 
 # Directions for visitors to locate you.
 directions = ""
