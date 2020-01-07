@@ -45,7 +45,7 @@ to simulate and evaluate the dynamics of fish populations in the Gulf of Mexico.
 several species, including blue crab, Vermilion Snapper, and Red Snapper. I am interested in using 
 management strategy evaluation techniques to investigate the combined effects of ecological and anthropogenic pressures on commercially 
 important species. Specifically, my dissertation research uses MSE to investigate how Vermilion Snapper populations respond to different 
-harvest strategies while accounting for interspecific competition with Red Snapper. 
+harvest strategies while accounting for interspecific competition with Red Snapper.  
 In addition to my academic research, I am interested in creating tools for communicating data and results with stakeholders and the general public. 
 I have used tools and applications such as dashboards, RMarkdown files, and Shiny apps and am interested in helping others with this. I 
 believe that these tools (and others) are the next step in making science more transparent, available, and approachable. 
