@@ -26,15 +26,16 @@ Recently, I was making a Shiny Dashboard that I wanted to look nice but I wasn't
 After a deep Google search, I came upon a fairly new package `dashboardthemes`. In this package, there are 7 pre-made dashboard themes you can use, but it also allows you to easily create your own custom theme *without* writing any CSS or HTML!! This package is exactly what I was looking for. 
 
 ### Pre-Made themes:  
-![](/post/dashboardthemes/pre-made_themes.png)
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/pre-made_themes.png)
+
 ## My theme  
 The theme I built was based on the [Nord color palette](https://www.nordtheme.com/docs/colors-and-palettes)  
 
-![](/post/dashboardthemes/polar_night)  
-![](/post/dashboardthemes/snow_storm)  
-![](/post/dashboardthemes/frost)  
-![](/post/dashboardthemes/aurora) 
 
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/polar_night.png)
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/snow_storm.png)
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/frost.png)
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/aurora.png)
 and is a "dark-mode" version.  
 
 ### General  
@@ -113,7 +114,7 @@ The next section is for the sidebar. You can add spacing around objects (padding
 
 ### Boxes  
 This section sets the colors for various types of boxes you can use in a dashboard. The `boxBackColor` is for a basic box. Again, I chose not to add a shadow border because I wanted the flat look. I increased the font size so that titles of boxes are 18 pt. You can also set colors for the status options. I chose the following colors:  
-![](/post/dashboardthemes/box_colors.png)
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/box_colors.png)
 
 
 You can also adjust the color of the boxes of a tab, I made mine the same other box backgrounds.  
@@ -220,4 +221,4 @@ Some tips I found useful were to:
 * follow the guidelines for using the Nord palette to inform which colors I used for each item  
 
 <br>  
-Overall, I am extremely satisfied with the theme I made and this package makes it easy to make as many as I desire. Next, I will probably make a "light-mode" Nord theme.
+Overall, I am extremely satisfied with the theme I made and this package makes it easy to make as many as I desire. An example of this theme can be seen [here](https://megumi-oshima.shinyapps.io/Covid19Dash/). Next, I will probably make a "light-mode" Nord theme.
