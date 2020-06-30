@@ -22,13 +22,13 @@ projects: []
 ## Problem
 Recently, I was making a Shiny Dashboard that I wanted to look nice but I wasn't satisfied with any of available themes and designs. The easiest way to customize a dashboard is to change the color of the skin but you are limited to the pre-selected colors (blue, black, purple, green, red, and yellow). Additionally you can use 3rd party packages such as `semantic.dashboard` or the `shinythemes` to use a Bootstrap theme. All of these look better than the generic "out-of-the-box" dashboard theme, however, I wanted to use a specific color scheme for my dashboard. At first, it seemed like I would need to write a custom style file (in CSS) or add HTML and CSS code in the app, both of which are difficult for someone who is not very familiar with either language. I also wanted to avoid the second option because (this is purely for aesthetics), I found that the extra text made it more difficult to read through and the script overall looked "messy".  
 
-## Solution
+## Solution  
 After a deep Google search, I came upon a fairly new package `dashboardthemes`. In this package, there are 7 pre-made dashboard themes you can use, but it also allows you to easily create your own custom theme *without* writing any CSS or HTML!! This package is exactly what I was looking for. 
 
 ### Pre-Made themes:  
-![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/pre-made_themes.png)  
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/pre-made_themes.png)   
 
-## My theme  
+## My Theme     
 The theme I built was based on the [Nord color palette](https://www.nordtheme.com/docs/colors-and-palettes)  
 
 
