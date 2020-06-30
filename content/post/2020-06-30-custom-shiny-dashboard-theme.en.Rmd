@@ -26,7 +26,7 @@ Recently, I was making a Shiny Dashboard that I wanted to look nice but I wasn't
 After a deep Google search, I came upon a fairly new package `dashboardthemes`. In this package, there are 7 pre-made dashboard themes you can use, but it also allows you to easily create your own custom theme *without* writing any CSS or HTML!! This package is exactly what I was looking for. 
 
 ### Pre-Made themes:  
-![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/pre-made_themes.png)
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/pre-made_themes.png)  
 
 ## My theme  
 The theme I built was based on the [Nord color palette](https://www.nordtheme.com/docs/colors-and-palettes)  
