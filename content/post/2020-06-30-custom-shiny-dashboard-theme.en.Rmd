@@ -28,14 +28,15 @@ After a deep Google search, I came upon a fairly new package `dashboardthemes`. 
 ### Pre-Made themes:  
 ![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/pre-made_themes.png)   
 
-## My Theme     
+### My Theme     
+
 The theme I built was based on the [Nord color palette](https://www.nordtheme.com/docs/colors-and-palettes)  
 
 
 ![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/polar_night.PNG)  
 ![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/snow_storm.PNG)  
-![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/frost.png)  
-![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/aurora.png)  
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/frost.PNG) 
+![](/post/2020-06-30-custom-shiny-dashboard-theme.en_files/aurora.PNG)  
 and is a "dark-mode" version.  
 
 ### General  
