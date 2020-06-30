@@ -31,17 +31,17 @@ projects: []
 <p>After a deep Google search, I came upon a fairly new package <code>dashboardthemes</code>. In this package, there are 7 pre-made dashboard themes you can use, but it also allows you to easily create your own custom theme <em>without</em> writing any CSS or HTML!! This package is exactly what I was looking for.</p>
 <div id="pre-made-themes" class="section level3">
 <h3>Pre-Made themes:</h3>
-<p><img src="/post/2020-06-30-custom-shiny-dashboard-theme.en_files/pre-made_themes.png" /></p>
+<p><img src="/post/2020-06-30-custom-shiny-dashboard-theme.en_files/pre-made_themes.PNG" /></p>
 </div>
-<div id="my-theme" class="section level3">
-<h3>My Theme</h3>
+</div>
+<div id="my-theme" class="section level2">
+<h2>My Theme</h2>
 <p>The theme I built was based on the <a href="https://www.nordtheme.com/docs/colors-and-palettes">Nord color palette</a></p>
 <p><img src="/post/2020-06-30-custom-shiny-dashboard-theme.en_files/polar_night.PNG" /><br />
 <img src="/post/2020-06-30-custom-shiny-dashboard-theme.en_files/snow_storm.PNG" /><br />
-<img src="/post/2020-06-30-custom-shiny-dashboard-theme.en_files/frost.PNG" />
+<img src="/post/2020-06-30-custom-shiny-dashboard-theme.en_files/frost.PNG" /><br />
 <img src="/post/2020-06-30-custom-shiny-dashboard-theme.en_files/aurora.PNG" /><br />
 and is a “dark-mode” version.</p>
-</div>
 <div id="general" class="section level3">
 <h3>General</h3>
 <p>I created a new script ‘theme_diy.R’ and used the function <code>shinyDashboardThemeDIY()</code> to create the object <code>nord_theme</code>. The first section is the general section which icludes the font family you want to use, the color of your text, the color of the background for the body of the page, and the font colors that will be used for each status (primary, info, success, warning, and danger). Allowing different font colors for different statuses is nice because sometimes certain colors look better with a dark font rather than a light font. To specify the color, I used the hex code but you can also use the <code>rgb()</code> function.</p>
